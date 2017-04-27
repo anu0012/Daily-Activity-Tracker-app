@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Daily Activity Tracker</string>
+    <string-array name="category">
+        <item>Health</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+<!-- Auto Suggestion -->
+    <string-array name="activities_array">
+        <item>Bath</item>
+        <item>Sleep</item>
+        <item>Eating</item>
+        <item>Going to work</item>
+        <item>Morning walk</item>
+        <item>Evening walk</item>
+        <item>Study</item>
+        <item>Rest</item>
+        <item>Home Cleaning</item>
+        <item>Gym</item>
+        <item>Diet</item>
+        <item>Running</item>
+        <item>Cooking</item>
+        <item>Return from work</item>
+    </string-array>
+</resources>
